@@ -1,4 +1,4 @@
-package com.lyft.android.snail
+package com.scribblex.android.snail
 
 import android.content.Context
 import android.view.LayoutInflater

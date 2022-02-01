@@ -1,11 +1,11 @@
-package com.lyft.android.snail
+package com.scribblex.android.snail
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.GridView
 import android.widget.TextView
-import com.lyft.android.snail.Direction.*
+import com.scribblex.android.snail.Direction.*
 import kotlin.random.Random
 
 class MainActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.lyft.android.snail
+package com.scribblex.android.snail
 
 import org.junit.Test
 
